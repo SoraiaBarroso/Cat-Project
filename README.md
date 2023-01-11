@@ -9,6 +9,8 @@ It reads the content of each files which are received as an argument to your sof
 Example:
 
 $>node my_cat file1
+
 content_file_1
+
 content_file_2
 $>
