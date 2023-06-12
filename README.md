@@ -1,6 +1,6 @@
 # Cat_Project
 
-Recreation of the software cat
+Recreation of the command cat
 
 This is a program which does the same thing as the system's cat command used in the command-line. 
 
